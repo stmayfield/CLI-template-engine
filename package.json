@@ -1,0 +1,23 @@
+{
+  "name": "10-cli-template-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stmayfield/CLI-template-engine.git"
+  },
+  "author": "Stephen Mayfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stmayfield/CLI-template-engine/issues"
+  },
+  "homepage": "https://github.com/stmayfield/CLI-template-engine#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
